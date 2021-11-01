@@ -1,2 +1,2 @@
 # ADTLib
- This library will comtain implementations of various ADT's
+ This library will contain implementations of various ADT's
